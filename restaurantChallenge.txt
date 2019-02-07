@@ -1,0 +1,79 @@
+PRACTICE ACTIVITY: In Class
+
+THE RESTAURANT CHALLENGE
+Make a webpage for a new restaurant that you have created. This will be a multi-page site you may borrow text content from another source for this exercise if needed. Priority should be on completing the site. We will learn CSS soon to help with the actual layout design of our sites, but for this exercise focus more on functionality. 
+
+****************************************************************************
+SCAVENGER HUNT: Always figure out your content before you begin building your site
+Before we begin coding, lets brain storm and put together content for the site. Take 5 minutes to review the following:
+
+1. What type of restaurant will your site be about?
+2. What is the name of your restaurant?
+3. Create a brief introduction about your newly created restaurant (what is the restaurant about and why should people go?)
+4. Obtain an image representing your restaurant or food related to your restaurant
+5. Create a list of Appetizers, Meals and Desserts (5 items per section)
+6. Obtain 1 picture to represent each category listed: Appetizers, Meals and Desserts
+7. Create 2 Fake reviews and fake authors for your restaurant
+8. Create a list of foods that your clients highly recommend from most loved to least (5 items only can be anything in your appetizers, meals or desserts list)
+****************************************************************************
+
+
+- Create a new folder and give it the name of the restaurant you have created. Your site will consist of 3 html files titled index.html, food.html and reviews.html 
+
+Below you will find instructions for each html page. Happy coding. 
+****************************************************************************
+index.html
+	This is the homepage of your site. It will have the following:
+
+	* A page title at the very top with the name of your restaurant
+	* Site link navigation (links to all pages on the website)
+	* An image representing your restaurant or related food
+	* A smaller header tag outlining an "About Us Section"
+	* a paragraph tag that contains your restaurant introduction
+	* An address section providing fake restaurant information
+****************************************************************************
+
+****************************************************************************
+food.html
+    This page will provide information about the types of food served on your site.
+
+	* A page title at the very top with the name of your restaurant using the largest heading tag
+	* A heading tag that with the word "Menu" smaller than the title
+	* Site link navigation (links to all pages on the website)
+
+	* Add the image you collected previously for appetizers
+	* Add a heading with the word "Appetizers" smaller than menu heading
+	* Add an unordered list including your 5 Appetizer choices
+
+	* Add the image you collected previously for Meals
+	* Add a heading with the word "Meals" smaller than menu heading
+	* Add an unordered list including your 5 Meals choices
+
+	* Add the image you collected previously for Desserts 
+	* Add a heading with the word "Desserts" smaller than menu heading
+	* Add an unordered list including your 5 Desserts choices
+
+	* Add an address section providing fake restaurant information
+****************************************************************************
+
+****************************************************************************
+reviews.html
+    This page provides review information for your restaurant.
+
+    * A page title at the very top with the name of your restaurant using the largest heading tag
+	* A heading tag with the word "Reviews" smaller than the title heading
+	* Site link navigation (links to all pages on the website)
+
+	* Add a stock restaurant/food image
+
+	* Add a heading tag with the word "Recent Customers" smaller than the Reviews heading
+	* Add an Ordered list containing both Author name followed by review one list item each
+	* italize the author name
+	
+	* Add a heading tag "Customer Recommended Menu Items" heading size the same as Reviews.
+	* Add an ordered list containing the 5 most highly recommended food items
+	* bold the first (top) item on the list
+
+	* Add an address section providing fake restaurant information
+****************************************************************************
+
